@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pydantic/axum-test/commit/462cbb0c8165970f2f27eea1ee6a405637f5506c",
       "git:hexsha": "462cbb0c8165970f2f27eea1ee6a405637f5506c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:49:52.081137+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/axum-test/commit/6eb081e8b921cc94a69f01989450026d2fae6b91",
